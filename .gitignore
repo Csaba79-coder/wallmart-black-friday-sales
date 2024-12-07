@@ -1,0 +1,69 @@
+# Python általános
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtuális környezetek
+venv/
+env/
+ENV/
+.virtualenv/
+.venv/
+
+# PyCharm IDE specifikus
+.idea/
+*.iml
+
+# Log és rendszerfájlok
+*.log
+*.sqlite3
+*.db
+*.bak
+
+# OS specifikus
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter notebook checkpointok
+.ipynb_checkpoints/
+
+# Teszt és build fájlok
+build/
+dist/
+*.egg-info/
+*.eggs
+.coverage
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Cache és ideiglenes fájlok
+*.swp
+*.swo
+*.tmp
+*.temp
+*.~
+*.log.*
+
+# CSV fájlok, ha nem akarod verziózni
+*.csv
+
+# Anaconda (ha használsz)
+.conda/
+
+# VS Code specifikus (ha használnád)
+.vscode/
+
+# Docker
+*.pid
+*.sock
+*.lock
+
+# Node.js (ha használnál JS/TS-t)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
