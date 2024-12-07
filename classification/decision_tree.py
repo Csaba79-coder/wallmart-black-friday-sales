@@ -68,7 +68,5 @@ def decision_tree_classification():
         print("\nTeszt szett AUC értéke:", test_auc)
 
 
-# Validációs pontosság: 0.7594125763847822
-# Teszt pontosság: 0.7673861620342992
 if __name__ == "__main__":
     decision_tree_classification()

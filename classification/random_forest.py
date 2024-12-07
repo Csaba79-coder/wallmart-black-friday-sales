@@ -68,6 +68,5 @@ def random_forest_classification():
         print("\nTeszt szett AUC értéke:", test_auc)
 
 
-# Validációs pontosság és teszt pontosság számítása
 if __name__ == "__main__":
     random_forest_classification()

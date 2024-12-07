@@ -68,7 +68,5 @@ def logistic_regression_classification():
         print("\nTeszt szett AUC értéke:", test_auc)
 
 
-# Validációs pontosság: 0.7477035284841317
-# Teszt pontosság: 0.7554799921151193
 if __name__ == "__main__":
     logistic_regression_classification()
