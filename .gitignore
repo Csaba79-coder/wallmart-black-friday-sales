@@ -48,9 +48,6 @@ coverage.xml
 *.~
 *.log.*
 
-# CSV fájlok, ha nem akarod verziózni
-*.csv
-
 # Anaconda (ha használsz)
 .conda/
 
