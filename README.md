@@ -8,3 +8,5 @@ Dataset Source:
 
 Dataset for source: Kaggle - Walmart Black Friday Sales
 https://www.kaggle.com/datasets/harshalpanchal/walmart-black-friday-sales
+
+The effectiveness of the model was not a goal. A lot depends on the data!
